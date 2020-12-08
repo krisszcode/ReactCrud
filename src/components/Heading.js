@@ -15,7 +15,7 @@ export const Heading = () => {
                 <NavbarBrand href="/">My team</NavbarBrand>
                 <Nav>
                     <NavItem>
-                        <Link class="btn btn-primary" to="/add">Add User</Link>
+                        <Link className="btn btn-primary" to="/add">Add User</Link>
                     </NavItem>
                 </Nav>
             </Container>

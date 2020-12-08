@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import {Home} from './components/Home';
 import {AddUser} from './components/AddUser';
 import {EditUser} from './components/EditUser';
-import {GlobalProvider} from '.context/GlobalProvider'
+import {GlobalProvider} from './context/GlobalState'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 
